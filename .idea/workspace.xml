@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part2SDETBatch14Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/ContainsAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/GenericCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/HwArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/IteratorDemo4WithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/RemoveAllDemo.java" afterDir="false" />
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="Initial version">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class25/Hw1ArrayListRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class25/Hw2ArrayListReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class25/Hw3ArrayListEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review5/AbstractionCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review5/FinalJuice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +37,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WrapperClasses">
-    <configuration name="HwArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.HwArrayList" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Hw1ArrayListRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.Hw1ArrayListRemove" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo4WithLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.IteratorDemo4WithLambda" />
+    <configuration name="Hw2ArrayListReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.Hw2ArrayListReplace" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveAllDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.RemoveAllDemo" />
+    <configuration name="Hw3ArrayListEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.Hw3ArrayListEvenNumber" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhyWeNeedIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.WhyWeNeedIterator" />
+    <configuration name="IteratorDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.IteratorDemo3" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -103,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.WrapperClasses" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review5.Test" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="review5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WrapperClasses" />
-        <item itemvalue="Application.WhyWeNeedIterator" />
-        <item itemvalue="Application.HwArrayList" />
-        <item itemvalue="Application.RemoveAllDemo" />
-        <item itemvalue="Application.IteratorDemo4WithLambda" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Hw3ArrayListEvenNumber" />
+        <item itemvalue="Application.Hw2ArrayListReplace" />
+        <item itemvalue="Application.IteratorDemo3" />
+        <item itemvalue="Application.Hw1ArrayListRemove" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667175566704</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial version">
+      <created>1667177128762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667177128762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,5 +146,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial version" />
   </component>
 </project>
