@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="Initial version">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/Hw1ArrayListRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/Hw2ArrayListReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class25/Hw3ArrayListEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review5/AbstractionCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review5/FinalJuice.java" afterDir="false" />
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="Review class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part2SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Part2SDETBatch14Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +33,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/choco/Downloads/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Hw1ArrayListRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.Hw1ArrayListRemove" />
+  <component name="RunManager" selected="Application.IteratorDemo">
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.IteratorDemo" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw2ArrayListReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.Hw2ArrayListReplace" />
+    <configuration name="TestExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelTest.TestExcel" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="ExcelTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hw3ArrayListEvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.Hw3ArrayListEvenNumber" />
+    <configuration name="TypesOfSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.TypesOfSet" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.IteratorDemo3" />
+    <configuration name="WhenToUseSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.WhenToUseSets" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review5.Test" />
+    <configuration name="WhySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class26.WhySet" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review5.*" />
+          <option name="PATTERN" value="class26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Hw3ArrayListEvenNumber" />
-        <item itemvalue="Application.Hw2ArrayListReplace" />
-        <item itemvalue="Application.IteratorDemo3" />
-        <item itemvalue="Application.Hw1ArrayListRemove" />
+        <item itemvalue="Application.IteratorDemo" />
+        <item itemvalue="Application.TestExcel" />
+        <item itemvalue="Application.WhySet" />
+        <item itemvalue="Application.WhenToUseSets" />
+        <item itemvalue="Application.TypesOfSet" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667177128762</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Review class">
+      <created>1667347816371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667347816371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial version" />
+    <MESSAGE value="Review class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Review class" />
   </component>
 </project>
