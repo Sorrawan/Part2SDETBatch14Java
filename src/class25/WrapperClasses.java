@@ -2,7 +2,7 @@ package class25;
 
 import java.util.ArrayList;
 
-public class WrapperClasses {
+public class  WrapperClasses {
     public static void main(String[] args) {
 
         int num=10;

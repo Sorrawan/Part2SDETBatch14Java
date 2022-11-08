@@ -9,6 +9,10 @@ public class MapDemo {
         //This is How we store info inside a map
 
         HashMap<String,String> data=new HashMap<>();
+        /*
+        "UserName" = Kay value
+        "Anton123" =
+         */
         data.put("UserName","Anton123"); // This is how we store info inside a map
         data.put("Password","pass123");
 

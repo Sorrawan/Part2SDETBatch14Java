@@ -20,11 +20,11 @@ public class IteratorDemo {
 
         Iterator<String> iterator =beautyProducts.iterator();
         System.out.println(iterator.hasNext());
-        System.out.println(iterator.next());   //It gives us the item and also removes the items from iterator
+        System.out.println(iterator.next());  //Blush //It gives us the item and also removes the items from iterator
         System.out.println(iterator.hasNext());   //checking is there any items next?
         iterator.next();
         iterator.next();
-        System.out.println(iterator.next());
+        System.out.println(iterator.next()); //lipstick
 
         /*
          while (iterator.hasNext()){

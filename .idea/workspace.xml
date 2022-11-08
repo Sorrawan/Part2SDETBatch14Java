@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="class26">
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="class27">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class25/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25/WrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class27/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/MapDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +41,17 @@
     "last_opened_file_path": "C:/Users/choco/Downloads/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MapDemo4">
-    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.MapDemo1" />
+  <component name="RunManager" selected="Application.ListDemoWithCustomClass">
+    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class25.IteratorDemo" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.MapDemo2" />
+    <configuration name="ListDemoWithCustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewclass12.ListDemoWithCustomClass" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="reviewclass12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListDemoWithCustomClass" />
+        <item itemvalue="Application.IteratorDemo" />
         <item itemvalue="Application.MapDemo4" />
         <item itemvalue="Application.MapDemo5" />
         <item itemvalue="Application.MapDemo3" />
-        <item itemvalue="Application.MapDemo2" />
-        <item itemvalue="Application.MapDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667748621697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class27">
+      <created>1667789481155</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667789481155</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +176,7 @@
     <MESSAGE value="Initial version" />
     <MESSAGE value="Review class" />
     <MESSAGE value="class26" />
-    <option name="LAST_COMMIT_MESSAGE" value="class26" />
+    <MESSAGE value="class27" />
+    <option name="LAST_COMMIT_MESSAGE" value="class27" />
   </component>
 </project>
