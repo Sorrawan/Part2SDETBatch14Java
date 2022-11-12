@@ -19,9 +19,9 @@ public class IteratorDemo {
         beautyProducts.add("eyeLinear");
 
         Iterator<String> iterator =beautyProducts.iterator();
-        System.out.println(iterator.hasNext());
+        System.out.println(iterator.hasNext()); //true
         System.out.println(iterator.next());  //Blush //It gives us the item and also removes the items from iterator
-        System.out.println(iterator.hasNext());   //checking is there any items next?
+        System.out.println(iterator.hasNext());  //true  //checking is there any items next?
         iterator.next();
         iterator.next();
         System.out.println(iterator.next()); //lipstick

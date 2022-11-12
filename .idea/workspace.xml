@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="class27">
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="reviewclass12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/class25/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25/IteratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class25/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class25/WrapperClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class27/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class27/MapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class26/WhenToUseSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class26/WhenToUseSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reviewclass12/ListDemoWithCustomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reviewclass12/ListDemoWithCustomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reviewclass12/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reviewclass12/MapDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +39,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/choco/Downloads/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
+    "last_opened_file_path": "C:/Users/choco/IdeaProjects/Part2SDETBatch14Java/Data",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ListDemoWithCustomClass">
-    <configuration name="IteratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class25.IteratorDemo" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\choco\IdeaProjects\Part2SDETBatch14Java\Data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\choco\IdeaProjects\Part2SDETBatch14Java\Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExcelDemo2">
+    <configuration name="ExcelDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo1" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class25.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemoWithCustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewclass12.ListDemoWithCustomClass" />
+    <configuration name="ExcelDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo2" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewclass12.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.MapDemo3" />
+    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.FileDemo1" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.MapDemo4" />
+    <configuration name="MapsDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.MapsDemo5" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class27.MapDemo5" />
+    <configuration name="MapsDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class28.MapsDemo6" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class27.*" />
+          <option name="PATTERN" value="class28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListDemoWithCustomClass" />
-        <item itemvalue="Application.IteratorDemo" />
-        <item itemvalue="Application.MapDemo4" />
-        <item itemvalue="Application.MapDemo5" />
-        <item itemvalue="Application.MapDemo3" />
+        <item itemvalue="Application.ExcelDemo2" />
+        <item itemvalue="Application.ExcelDemo1" />
+        <item itemvalue="Application.FileDemo1" />
+        <item itemvalue="Application.MapsDemo6" />
+        <item itemvalue="Application.MapsDemo5" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667789481155</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="reviewclass12">
+      <created>1667876693226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667876693226</updated>
+    </task>
+    <task id="LOCAL-00006" summary="reviewclass12">
+      <created>1667876704947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667876704947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +200,7 @@
     <MESSAGE value="Review class" />
     <MESSAGE value="class26" />
     <MESSAGE value="class27" />
-    <option name="LAST_COMMIT_MESSAGE" value="class27" />
+    <MESSAGE value="reviewclass12" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewclass12" />
   </component>
 </project>

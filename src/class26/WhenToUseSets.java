@@ -23,6 +23,7 @@ public class WhenToUseSets {
 
         HashSet<Integer> hashSet=new HashSet<>(numbers);
         System.out.println(hashSet);
+
         LinkedList<Integer> linkedList=new LinkedList<>(hashSet);
         System.out.println(linkedList);
 

@@ -15,7 +15,7 @@ public class MapDemo {
 
         Map<String,Double> vegeList=new LinkedHashMap<>();
         TreeSet<String> hashSet=new TreeSet<>();
-        hashSet.add(null);
+        hashSet.add("doll");
         System.out.println(hashSet);
 
 
