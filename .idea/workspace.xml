@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="reviewclass12">
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="class29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Book1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ExcelReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +52,7 @@
       <recent name="C:\Users\choco\IdeaProjects\Part2SDETBatch14Java\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodsDemo">
-    <configuration name="ExcelDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo2" />
-      <module name="Part2SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class28.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Review1">
     <configuration name="FilesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class29.FilesDemo" />
       <module name="Part2SDETBatch14Java" />
@@ -116,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Review1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.Review1" />
+      <module name="Part2SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Review1" />
         <item itemvalue="Application.MethodsDemo" />
         <item itemvalue="Application.FilesDemo" />
         <item itemvalue="Application.ReadingExcelFileDemo2" />
         <item itemvalue="Application.ReadingExcelFileDemo1" />
-        <item itemvalue="Application.ExcelDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668283692200</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="class29">
+      <created>1668442239403</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668442239403</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +220,8 @@
     <MESSAGE value="class26" />
     <MESSAGE value="class27" />
     <MESSAGE value="reviewclass12" />
-    <option name="LAST_COMMIT_MESSAGE" value="reviewclass12" />
+    <MESSAGE value="class29" />
+    <option name="LAST_COMMIT_MESSAGE" value="class29" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
