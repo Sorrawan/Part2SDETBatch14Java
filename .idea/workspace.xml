@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="reviewclass12" />
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="reviewclass12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,20 +50,7 @@
       <recent name="C:\Users\choco\IdeaProjects\Part2SDETBatch14Java\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExcelDemo2">
-    <configuration name="ExcelDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo1" />
-      <module name="Part2SDETBatch14Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class28.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodsDemo">
     <configuration name="ExcelDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class28.ExcelDemo2" />
       <module name="Part2SDETBatch14Java" />
@@ -75,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.FileDemo1" />
+    <configuration name="FilesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.FilesDemo" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.MapsDemo5" />
+    <configuration name="MethodsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.MethodsDemo" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapsDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class28.MapsDemo6" />
+    <configuration name="ReadingExcelFileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.ReadingExcelFileDemo1" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class28.*" />
+          <option name="PATTERN" value="class29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadingExcelFileDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class29.ReadingExcelFileDemo2" />
+      <module name="Part2SDETBatch14Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsDemo" />
+        <item itemvalue="Application.FilesDemo" />
+        <item itemvalue="Application.ReadingExcelFileDemo2" />
+        <item itemvalue="Application.ReadingExcelFileDemo1" />
         <item itemvalue="Application.ExcelDemo2" />
-        <item itemvalue="Application.ExcelDemo1" />
-        <item itemvalue="Application.FileDemo1" />
-        <item itemvalue="Application.MapsDemo6" />
-        <item itemvalue="Application.MapsDemo5" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668283617585</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="reviewclass12">
+      <created>1668283692200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668283692200</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,5 +212,12 @@
     <MESSAGE value="class27" />
     <MESSAGE value="reviewclass12" />
     <option name="LAST_COMMIT_MESSAGE" value="reviewclass12" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="noOfRow" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
