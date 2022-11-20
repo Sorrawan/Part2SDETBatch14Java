@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="class29">
+    <list default="true" id="43772b77-6066-4b99-8af3-abd207a53ec9" name="Changes" comment="reviewclass13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +50,13 @@
       <recent name="C:\Users\choco\IdeaProjects\Part2SDETBatch14Java\Data" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VarDemo">
-    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewclass13.FileDemo1" />
+  <component name="RunManager" selected="Application.TryCatchDemo">
+    <configuration name="ExceptionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.ExceptionDemo2" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewclass13.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterviewQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewclass13.InterviewQ" />
+    <configuration name="ExceptionDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.ExceptionDemo3" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewclass13.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewclass13.MapDemo1" />
+    <configuration name="FinallyBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.FinallyBlockDemo" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewclass13.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Review1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class29.Review1" />
+    <configuration name="ThrowVsThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.ThrowVsThrows" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class29.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewclass13.VarDemo" />
+    <configuration name="TryCatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class30.TryCatchDemo" />
       <module name="Part2SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewclass13.*" />
+          <option name="PATTERN" value="class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarDemo" />
-        <item itemvalue="Application.FileDemo1" />
-        <item itemvalue="Application.InterviewQ" />
-        <item itemvalue="Application.MapDemo1" />
-        <item itemvalue="Application.Review1" />
+        <item itemvalue="Application.TryCatchDemo" />
+        <item itemvalue="Application.ThrowVsThrows" />
+        <item itemvalue="Application.FinallyBlockDemo" />
+        <item itemvalue="Application.ExceptionDemo3" />
+        <item itemvalue="Application.ExceptionDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668445630399</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="reviewclass13">
+      <created>1668575240198</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668575240198</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +233,8 @@
     <MESSAGE value="class27" />
     <MESSAGE value="reviewclass12" />
     <MESSAGE value="class29" />
-    <option name="LAST_COMMIT_MESSAGE" value="class29" />
+    <MESSAGE value="reviewclass13" />
+    <option name="LAST_COMMIT_MESSAGE" value="reviewclass13" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
